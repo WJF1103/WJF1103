@@ -9,7 +9,7 @@ Core programming language:<br>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <img width="100" height="100" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/e2a81104-c386-4dff-9a60-f8d9ef4aebf5" />
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; C++ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Python
+&nbsp; &nbsp; &nbsp; &nbsp; C++ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Python
 
 
 
