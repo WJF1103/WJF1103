@@ -1,9 +1,10 @@
-![ISO_C++_Logo](https://github.com/user-attachments/assets/7b7d694c-d9e2-48b6-b30a-bc6d07322e6a)## Hi there 👋, my name is Wong Jian Fu
+## Hi there 👋, my name is Wong Jian Fu
 
 I am a first year student from Universiti Teknologi Malaysia.<br>
 I am currently enrolled in the Bachelor of Computer Science (Computer Network & Security) with Honours.<br>
 <br>
 Core programming language:<br>
+![ISO_C++_Logo](https://github.com/user-attachments/assets/7b7d694c-d9e2-48b6-b30a-bc6d07322e6a)
 ![Uploadi<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
