@@ -4,7 +4,8 @@ I am a first year student from Universiti Teknologi Malaysia.<br>
 I am currently enrolled in the Bachelor of Computer Science (Computer Network & Security) with Honours.<br>
 <br>
 Core programming language:<br>
-![ISO_C++_Logo](https://github.com/user-attachments/assets/54b7b36a-f1e6-42bc-a670-63100217aa9f)
+![ISO_C++_Logo (1)](https://github.com/user-attachments/assets/d2ab27ff-4e52-4b8a-bc04-ea9065402e1a)
+
 
 
 
