@@ -1,5 +1,8 @@
 ## Hi there 👋, my name is Wong Jian Fu
 
+I am a first year student from Universiti Teknologi Malaysia.
+I am currently enrolled in the Bachelor of Computer Science (Computer Network & Security) with Honours.
+
 <!--
 **WJF1103/WJF1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
