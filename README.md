@@ -11,6 +11,9 @@ Core programming language:<br>
 <img width="100" height="100" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/e2a81104-c386-4dff-9a60-f8d9ef4aebf5" />
 <br>
 &nbsp; &nbsp; &nbsp; &nbsp; C++ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Python
+<br>
+<br>
+Although I haven't complete an actual project, I have completed a Low Fidelity Prototype about an AI Campus Assistant which you can check it out in my SECP1513 repository.
 
 
 
